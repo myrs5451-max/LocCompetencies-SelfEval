@@ -1,0 +1,122 @@
+{
+    "dimensions": {
+        "language": "Lengua, cultura y comunicación",
+        "research": "Investigación y pensamiento crítico",
+        "market": "Conocimiento del mercado",
+        "subject": "Especialización temática",
+        "gilt": "GILT",
+        "technology": "Tecnología",
+        "management": "Gestión"
+    },
+    
+    "chart": {
+        "score": "Puntuación de competencias"
+    },
+    
+    "results": {
+        "emergingCompetencies": "Estás desarrollando tu base en todas las dimensiones. Concéntrate en fortalecer la capacidad de trabajar de forma independiente en áreas alineadas con tus objetivos profesionales.",
+        "ongoingGrowth": "¡Excelente! Todas las dimensiones tienen una puntuación de 4 o más. Posees competencias sólidas en todos los ámbitos. Continúa desarrollando tu experiencia en las áreas que decidas seguir."
+    },
+    
+    "careerPathNames": {
+        "project_coordinator": "Coordinador/a de proyectos",
+        "translation_apprentice": "Aprendiz de traducción",
+        "qa_tester": "Especialista en control de calidad (QA)",
+        "data_annotator": "Anotador/a de datos / Entrenador/a de LLM",
+        "market_analyist": "Analista de mercado",
+        "translator": "Traductor/a, intérprete, terminólogo/a, responsable lingüístico",
+        "vendor_manager": "Gestor/a de proveedores",
+        "project_manager": "Gerente de proyectos de localización",
+        "loc_eng": "Ingeniero/a de localización",
+        "quality_manager": "Gerente de calidad de localización",
+        "solutions_arch": "Arquitecto/a de soluciones",
+        "localization_trainer": "Formador/a en localización",
+        "program_manager": "Gerente de programas",
+        "tech_dev": "Desarrollador tecnológico",
+        "none": "Sigue desarrollando tus habilidades para alinearlas con trayectorias profesionales específicas. Esta lista no es exhaustiva; si deseas que se añadan más roles, contáctanos en info@locessentials.com"
+    },
+    
+    "recommendations": {
+        "gilt": "Adquiere experiencia en proyectos prácticos de traducción y localización. Estudia las mejores prácticas de internacionalización y la estrategia de globalización.",
+        "management": "Recibe formación en gestión de proyectos de traducción y localización. Practica la gestión de pequeños proyectos o equipos de traducción.",
+        "technology": "Familiarízate con tecnologías específicas como Lilt, Subtitle Edit y los LLM. Aprende sobre posedición de traducción automática y estudia lenguajes de programación como Python.",
+        "language": "Mejora tu dominio de tus lenguas de trabajo. Desarrolla tu competencia intercultural para contribuir a un trabajo culturalmente pertinente.",
+        "subject": "Enfócate en una industria específica (creativa, técnica, jurídica) y desarrolla especialización en un área de nicho dentro de ese ámbito. Aprende sobre requisitos legales y cómo la seguridad de datos impacta la comunicación internacional.",
+        "research": "Desarrolla esta área mediante la lectura de estudios de investigación en temas de interés y realizando tu propia investigación lingüística, cultural o tecnológica. Encuentra espacios para publicar tu trabajo.",
+        "market": "Desarrolla una comprensión profunda de tus mercados de origen y destino en las especializaciones en las que trabajas. Sigue a una diversidad de especialistas del sector. Aprende sobre estándares de la industria de la localización (ISO 17100, ASTM F2575).",
+        "highPerformer": "Trabaja para mantener tus niveles actuales. Áreas en las que se requiere evolución constante incluyen:<br><br><strong>Lenguas/Mercados</strong> - Cuanto más tiempo participa una persona en una lengua y sociedad, mayor es su conciencia del uso lingüístico actual y de las tendencias sociales.<br><br><strong>Investigación y pensamiento crítico</strong> - Según algunas posturas, estas competencias pueden verse en riesgo cuando se desarrolla una dependencia excesiva de la IA.<br><br><strong>Áreas de especialidad</strong> - Los intereses de las personas evolucionan con el tiempo, y desarrollar competencia en una nueva especialidad es positivo, incluso si la puntuación inicial es baja.<br><br><strong>GILT</strong> - Son cuatro ámbitos amplios que se abordan mejor mediante el trabajo en equipo.<br><br><strong>Tecnología</strong> - La tecnología evoluciona rápidamente, en medio de posturas a favor y en contra de las máquinas.<br><br><strong>Gestión</strong> - La forma en que trabajamos con las personas evoluciona junto con ellas.<br><br>¡Te deseamos mucho éxito!"
+    },
+    
+    "alerts": {
+    "incomplete": "Completa todas las valoraciones antes de calcular tus resultados.",
+    "email": "En una implementación real, esto enviaría tus resultados a tu correo electrónico. Por ahora, utiliza la opción Imprimir."
+    },
+    
+    "errors": {
+    "languageUnavailable": "La selección de idioma no está disponible en este momento. Intenta recargar la página.",
+    "languageNotSupported": "Este idioma no es compatible.",
+    "selectNotFound": "La selección de idioma no está disponible en este momento. Intenta recargar la página.",
+    "changingToEnglish": "Cambiando idioma a inglés",
+    "changingToSpanish": "Cambiando idioma a español",
+    "selectLanguageEnglish": "Seleccionar idioma",
+    "selectLanguageSpanish": "Seleccionar idioma"
+    },
+    
+   "ui": {
+    "evalTitle": "Autoevaluación",
+    "evalDesc": "Valora tu nivel de competencia en cada área en una escala del 1 al 5, donde:",
+    "scaleLabels": {
+        "1": "Inicial (Sin experiencia o conocimiento básico)",
+        "2": "Básico (Experiencia limitada, requiere orientación)",
+        "3": "Intermedio (Conocimiento funcional, cierta autonomía)",
+        "4": "Avanzado (Conocimiento amplio, trabaja de forma independiente)",
+        "5": "Experto (Alta especialización, puede enseñar a otras personas)"
+        },
+        "calculateBtn": "Calcular resultados",
+    "resultsTitle": "Tus resultados de competencias en localización",
+    "resultsIntro": "Aquí tienes un panorama de tus fortalezas y áreas de desarrollo en las siete dimensiones del LMCC:",
+    "dimensionScoresTitle": "Puntuaciones por dimensión",
+    "strengthsTitle": "Tus fortalezas (≥ 4)",
+    "weaknessesTitle": "Áreas de desarrollo (< 4)",
+    "careerPathsTitle": "Trayectorias profesionales sugeridas",
+    "careerPathsIntro": "Según tus competencias actuales, estas trayectorias profesionales podrían ser adecuadas:",
+    "careerPathsDisclaimer": "Nota: Esta lista no es exhaustiva. Si deseas que se agreguen otros roles, contáctanos en info@locessentials.com",
+    "nextStepsTitle": "Próximos pasos recomendados",
+    "nextStepsIntro": "Para seguir desarrollando tus competencias en gestión de la localización:",
+    "printResults": "Imprimir resultados",
+    "emailResults": "Enviar resultados por correo",
+    "resetEvaluation": "Comenzar de nuevo"
+    },
+    
+    "competencyLabels": {
+    "multilingual": "Competencia multilingüe",
+    "cultural": "Conciencia cultural",
+    "communication": "Competencia comunicativa",
+    "analytical": "Pensamiento analítico",
+    "research-skills": "Competencia investigadora",
+    "evaluation-skills": "Evaluación y retroalimentación",
+    "source-market": "Conocimiento del mercado de origen",
+    "target-market": "Conocimiento del mercado de destino",
+    "marketplace": "Conocimiento del mercado global",
+    "industry-knowledge": "Conocimiento del sector",
+    "specialization": "Especialización temática",
+    "legal": "Conocimiento jurídico",
+    "data-security": "Seguridad de datos",
+    "translation": "Traducción",
+    "localization": "Localización",
+    "internationalization": "Internacionalización",
+    "globalization": "Globalización",
+    "general-tech": "Competencia tecnológica general",
+    "cat-tools": "Herramientas TAO",
+    "mt": "Traducción automática",
+    "web-dev": "Desarrollo web",
+    "dtp": "DTP y multimedia",
+    "software": "Desarrollo de software",
+    "gai": "IA generativa",
+    "stakeholder": "Gestión de partes interesadas",
+    "account": "Gestión de cuentas",
+    "project": "Gestión de proyectos",
+    "quality": "Gestión de calidad",
+    "operations": "Producción y operaciones"
+}
+}
